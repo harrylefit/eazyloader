@@ -1,7 +1,7 @@
 # EazyLoader
 Loader For Android :
 
-  ##Usag
+Usage: 
 - [KProgressHUD](https://github.com/Kaopiz/KProgressHUD)
 
 ##Setup
